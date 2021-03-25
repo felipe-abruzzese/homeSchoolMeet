@@ -1,7 +1,5 @@
-/* TECLADO MACRO CATARINA
-Teclado para a catarina fazer aulas no Google Meet mais confortavelmente
-
-
+/* TECLADO MACRO
+Teclado para minha filha fazer aulas no Google Meet mais confortavelmente sem se estressar com o mouse ou com o trackpad do notebook
 
 */
 
